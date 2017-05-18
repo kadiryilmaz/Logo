@@ -3,5 +3,10 @@ Logo Veritabanı ilgili notlarım
 
 # Tablolar
 
-/**/
-L_CAPITERMINAL 
+*Terminaneller
+-L_CAPITERMINAL
+
+*Mazleme Kartları ile ilgili
+- LG_001_ITEMS
+- LG_001_PRCLIST
+- LG_001_UNITBARCODE
